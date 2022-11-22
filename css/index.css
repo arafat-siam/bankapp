@@ -1,0 +1,12 @@
+.history_box::-webkit-scrollbar {
+  width: 0.3em;
+}
+
+.history_box::-webkit-scrollbar-track {
+  background: rgba(204, 204, 204, 0.36);
+}
+
+.history_box::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 30px;
+}
